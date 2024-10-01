@@ -46,10 +46,9 @@ Iniciamos el projecto
 
 ## 🎩 Autores
 
-- [@MauricioGranadosMunoz](https://github.com/)
-- [@JoseRamos](https://github.com/JoseRamosO)
-- [@Steven](https://github.com/)
-- [@Karolay](https://github.com/)
+- Victor Leiva
+- Alejandra Chaevez
+- Nayelis Belen
 
 
 ## Tech Stack
