@@ -1,0 +1,9 @@
+footer {
+    .general-padding-x {
+        padding-left: var(--main-spacing-horizontal);
+        padding-right: var(--main-spacing-horizontal);
+    }
+    .copyright-footer {
+        border-radius: 10px 10px 0 0;
+    }
+}
