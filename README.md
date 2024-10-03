@@ -45,11 +45,9 @@ Iniciamos el projecto
 
 
 ## 🎩 Autores
-
 - Victor Leiva
-- Alejandra Chaevez
-- Nayelis Belen
-
+- Nayelis Belén
+- Alejandra Chávez 
 
 ## Tech Stack
 
