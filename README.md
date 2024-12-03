@@ -10,12 +10,15 @@ Este proyecto busca resolver los retos de gestión en los servicios y operacione
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [XAMPP](https://www.apachefriends.org/download.html)
 - [Postman](https://www.postman.com/downloads/)
-
+ ```
 ## 🚀 Pasos para ejecutar el proyecto
 1. Clonar el proyecto desde GitHub:
    ```bash
   git clone https://github.com/Vleiva220503/Pw.git
-   ```
+
+
+```
+ ```
 
 2. Cambiar al directorio clonado:
    ```bash
