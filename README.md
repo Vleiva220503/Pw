@@ -19,7 +19,7 @@ Este proyecto busca resolver los retos de gestión en los servicios y operacione
 
 2. Cambiar al directorio clonado:
    ```bash
-   cd mayeBeautySalon
+   cd Pw
    ```
 
 3. Instalar las dependencias necesarias:
