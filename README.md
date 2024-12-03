@@ -13,11 +13,12 @@ Este proyecto busca resolver los retos de gestión en los servicios y operacione
 
 ## 🚀 Pasos para ejecutar el proyecto
 
+   ```
 1. Clonar el proyecto desde GitHub:
    ```bash
-   git clone https://github.com/Vleiva220503/Pw.git
+  git clone https://github.com/Vleiva220503/Pw.git
    ```
-
+   ```
 2. Cambiar al directorio clonado:
    ```bash
    cd mayeBeautySalon
