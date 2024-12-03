@@ -1,0 +1,55 @@
+/*
+*
+* Table
+*
+* Bootstrap table styles.
+*
+*/
+
+.table {
+  --bs-table-bg: rgba(0, 0, 0, 0);
+  --bs-table-striped-color: var(--body);
+  --bs-table-striped-bg: rgba(var(--body-rgb), 0.05);
+  --bs-table-active-color: var(--body);
+  --bs-table-active-bg: rgba(var(--body-rgb), 0.1);
+  --bs-table-hover-color: var(--body);
+  --bs-table-hover-bg: rgba(var(--body-rgb), 0.075);
+  color: var(--body);
+  border-color: var(--separator-light);
+}
+
+.table > :not(:last-child) > :last-child > * {
+  border-bottom-color: var(--separator);
+}
+
+.table > :not(caption) > * > * {
+  --bs-table-bg: rgba(0, 0, 0, 0);
+  color: var(--body);
+}
+
+.table-bordered > :not(caption) > * {
+  border-color: var(--separator);
+}
+
+.appointments-table {
+  @include respond-below(lg) {
+    overflow-x: scroll;
+  }
+  .table-cell {
+    text-align: center;
+    &.selectedCellDate {
+      background-color: var(--success);
+      color: var(--white);
+    }
+    &.todayCell {
+      background-color: var(--primary);
+      color: var(--white);
+    }
+    &.firstchild {
+      border-radius: 20px 20px 0 0;
+    }
+    &.lastchild {
+      border-radius: 0 0 20px 20px;
+    }
+  }
+}
