@@ -24,7 +24,7 @@ Este proyecto busca resolver los retos de gestión en los servicios y operacione
 
 3. Instalar las dependencias necesarias:
    ```bash
-   npm install
+     npm run install-dependencies
    ```
 
 4. Iniciar el proyecto en modo desarrollo:
